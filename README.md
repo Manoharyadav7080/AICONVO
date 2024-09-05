@@ -1,4 +1,7 @@
 # AICONVO- Powered by Gamini API
+![Screenshot 2024-09-05 131332](https://github.com/user-attachments/assets/fdebbb59-a164-42e0-bd53-7f0f48c0299e)
+![Screenshot 2024-09-05 131119](https://github.com/user-attachments/assets/c8ded052-b5e5-4c65-a455-c11eff4372c9)
+
 
 ChatAI is an intelligent chat application built using the **Gamini API** and **Node.js** for the backend. This application leverages powerful natural language processing to provide interactive, meaningful conversations with users.
 
