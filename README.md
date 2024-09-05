@@ -35,10 +35,6 @@ Ensure you have Node.js and npm installed:
 ```bash
 # Install Node.js & npm
 
-![Screenshot 2024-09-05 131332](https://github.com/user-attachments/assets/be28c566-600e-47cf-a57f-953cb1648112)
-
-![Screenshot 2024-09-05 131119](https://github.com/user-attachments/assets/629b225d-024d-47ca-baa4-4bcacc93a00d)
-
 
 
 
