@@ -17,7 +17,6 @@
  const port = process.env.PORT;
 
 
-// const genAI = new GoogleGenerativeAI('AIzaSyD6AkG3y8mfU0A-BuJBHyJutxRP8WxMopk');
 const api = process.env.API_KEY;
 const genAI = new GoogleGenerativeAI(api);
 
